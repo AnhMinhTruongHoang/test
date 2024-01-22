@@ -1,6 +1,6 @@
 function timMuaTrongNam(n){
     switch(true){
-        case n>=3 && n<=5:{
+        case n>=7 && n<=8:{
             console.log('mua xuan')
             break
         }
